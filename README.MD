@@ -10,23 +10,23 @@ Lms-Mobile-App 是一个完整的学习管理系统（LMS），包含移动端�
 
 ## 第三方服务支持
 
-1. [Upstash]: https://upstash.com
+1. [Upstash]: (https://upstash.com)
 
 - 用于缓存和消息队列，提升系统性能和响应速度。
 
-2. [VdoCipher]: https://vdocipher.com
+2. [VdoCipher]: (https://vdocipher.com)
 
 - 提供视频加密和播放服务，确保学习视频的安全性和流畅播放。
 
-3. [Cloudinary]: https://cloudinary.com
+3. [Cloudinary]: (https://cloudinary.com)
 
 - 用于管理和优化图像、视频等媒体资源。
 
-4. [Cloudinary]: https://stripe.com
+4. [Cloudinary]: (https://stripe.com)
 
 - 集成支付功能，方便用户进行课程购买等操作
 
-5. [MongoDB]: https://www.mongodb.com
+5. [MongoDB]: (https://www.mongodb.com)
 
 - 作为主要的数据库，存储学习系统的各类数据，如用户信息、课程信息等。
 
