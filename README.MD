@@ -150,7 +150,7 @@ Lms-Mobile-App 是一个完整的学习管理系统（LMS），包含移动端�
 3. 启动开发服务器
 
 ```bash
-  npx exo start
+  npx expo start
 ```
 
 4. 配置
